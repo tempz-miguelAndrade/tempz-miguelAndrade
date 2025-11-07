@@ -1,4 +1,4 @@
-# Olá, eu sou o Temp!
+# Olá, eu sou o Tempz!
 
 Estudante do **Instituto Federal Catarinense**  
 Atualmente curso **Técnico em informática para internet**
