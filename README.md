@@ -1,8 +1,8 @@
 # Olá, eu sou o Tempz!
 
-Estudante do **Instituto Federal Catarinense**  
-Atualmente curso **Técnico em informática para internet**
-Atualmente estudando **HTML, CSS e JS**  
+Sou Miguel Andrade de Souza, estudante do **Instituto Federal Catarinense**, estou no primeiro ano.
+Atualmente curso **Técnico em informática para internet**.
+Aprendendo **HTML, CSS e JS**. 
 
 ---
 
