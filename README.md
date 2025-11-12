@@ -15,7 +15,7 @@ Aprendendo **HTML, CSS e JS**.
 ---
 
 ## 📊 Estatísticas do GitHub
-![Temp's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempz-miguelAndrade&show_icons=true&theme=tokyonight)
+![Temp GitHub stats](https://github-readme-stats.vercel.app/api?username=tempz-miguelAndrade&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelAndrade&layout=compact&theme=tokyonight)
 
