@@ -11,7 +11,6 @@ Aprendendo **HTML, CSS e JS**.
 - Meu objetivo é me tornar um **desenvolvedor** ou **cibersegurança**
 - Gosto de entender como as coisas funcionam em todas as matérias que posso aprender
 - Estudo todos os dias, das **8h às 17h**
-- 
 
 ---
 
