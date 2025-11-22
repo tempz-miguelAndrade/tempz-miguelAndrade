@@ -2,7 +2,6 @@
 
 Sou Miguel Andrade de Souza, estudante do **Instituto Federal Catarinense** e estou no primeiro ano.  
 Atualmente curso **Técnico em Informática para Internet**.  
-Estudo **HTML, CSS, JavaScript e Python**.
 
 ---
 
