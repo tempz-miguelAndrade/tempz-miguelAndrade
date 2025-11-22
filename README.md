@@ -1,26 +1,31 @@
-# Olá, eu sou o Tempz!
+<div align="center">
 
-Sou Miguel Andrade de Souza, estudante do **Instituto Federal Catarinense** e estou no primeiro ano.  
-Atualmente curso **Técnico em Informática para Internet**.  
+# <span style="color:#FF6A00">🔥 Olá, eu sou o Tempz!</span>
 
----
-
-## Sobre mim
-- Estudando **desenvolvimento web** e introdução à **cibersegurança**
-- Objetivo: me tornar **desenvolvedor** ou trabalhar com **cibersegurança**
-- Gosto de entender como tudo funciona por trás do código
-- Estudo diariamente, das **8h às 17h**
+Sou Miguel Andrade de Souza, estudante do **Instituto Federal Catarinense** (1º ano).  
+Cursando **Técnico em Informática para Internet**.  
+Estudo **HTML, CSS, JavaScript e Python**.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## <span style="color:#FF6A00">👤 Sobre mim</span>
+
+Estudo **desenvolvimento web** e introdução à **cibersegurança**.  
+Quero me tornar **desenvolvedor** ou trabalhar com **cibersegurança**.  
+Gosto de entender como tudo funciona “por trás do código”.  
+Estudo todos os dias, das **8h às 17h**.
+
+---
+
+## <span style="color:#FF6A00">📊 Estatísticas do GitHub</span>
+
 > *Essas estatísticas são baseadas nos meus repositórios públicos.*
 
 ![Temp GitHub stats](https://github-readme-stats.vercel.app/api?username=tempz-miguelandrade&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🧰 Linguagens que estudo e utilizo
+## <span style="color:#FF6A00">🧰 Linguagens que estudo e utilizo</span>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,13 +34,16 @@ Atualmente curso **Técnico em Informática para Internet**.
 
 ---
 
-## 📁 Meus repositórios
+## <span style="color:#FF6A00">📁 Meus repositórios</span>
 
-- [Programação I](https://github.com/tempz-miguelandrade/programacao-I)  
-- [Desenvolvimento Web I](https://github.com/tempz-miguelandrade/desenvolvimento-web-I)  
-- [Programação Python](https://github.com/tempz-miguelandrade/programacao-python)
+[Programação I](https://github.com/tempz-miguelandrade/programacao-I)  
+[Desenvolvimento Web I](https://github.com/tempz-miguelandrade/desenvolvimento-web-I)  
+[Programação Python](https://github.com/tempz-miguelandrade/programacao-python)
 
 ---
 
-## Contato
-**Email:** miguelandradedesouzaifc@gmail.com
+## <span style="color:#FF6A00">📫 Contato</span>
+
+**Email:** miguelandradedesouzaifc@gmail.com  
+
+</div>
