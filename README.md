@@ -2,19 +2,20 @@
 
 Sou Miguel Andrade de Souza, estudante do **Instituto Federal Catarinense** e estou no primeiro ano.  
 Atualmente curso **Técnico em Informática para Internet**.  
-Aprendendo **HTML, CSS, JavaScript e Python**.
+Atualmente estudo **HTML, CSS, JavaScript e Python**.
 
 ---
 
 ## Sobre mim
-- No momento, estou aprendendo **desenvolvimento web** e estudando introdução à **cibersegurança**
-- Meu objetivo é me tornar **desenvolvedor** ou trabalhar com **cibersegurança**
-- Gosto de entender a fundo como as coisas funcionam
-- Estudo todos os dias, das **8h às 17h**
+- Estudando **desenvolvimento web** e introdução à **cibersegurança**
+- Objetivo: me tornar **desenvolvedor** ou trabalhar com **cibersegurança**
+- Gosto de entender como tudo funciona por trás do código
+- Estudo diariamente, das **8h às 17h**
 
 ---
 
 ## 📊 Estatísticas do GitHub
+> *As linguagens abaixo são baseadas no código atualmente disponível nos meus repositórios públicos.*
 
 ![Temp GitHub stats](https://github-readme-stats.vercel.app/api?username=tempz-miguelandrade&show_icons=true&theme=tokyonight)
 
