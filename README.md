@@ -1,10 +1,7 @@
-<div align="center">
-
 # <span style="color:#FF6A00">🔥 Olá, eu sou o Tempz!</span>
 
 Sou Miguel Andrade de Souza, estudante do **Instituto Federal Catarinense** (1º ano).  
-Cursando **Técnico em Informática para Internet**.  
-Estudo **HTML, CSS, JavaScript e Python**.
+Cursando **Técnico em Informática para Internet**.
 
 ---
 
@@ -44,6 +41,4 @@ Estudo todos os dias, das **8h às 17h**.
 
 ## <span style="color:#FF6A00">📫 Contato</span>
 
-**Email:** miguelandradedesouzaifc@gmail.com  
-
-</div>
+**Email:** miguelandradedesouzaifc@gmail.com
