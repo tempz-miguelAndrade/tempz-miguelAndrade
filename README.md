@@ -1,34 +1,34 @@
 # Olá, eu sou o Tempz!
 
-Sou Miguel Andrade de Souza, estudante do **Instituto Federal Catarinense**, estou no primeiro ano.
-Atualmente curso **Técnico em informática para internet**.
-Aprendendo **HTML, CSS e JS**. 
+Sou Miguel Andrade de Souza, estudante do **Instituto Federal Catarinense** e estou no primeiro ano.  
+Atualmente curso **Técnico em Informática para Internet**.  
+Aprendendo **HTML, CSS, JavaScript e Python**.
 
 ---
 
 ## Sobre mim
-- No momento, estou aprendendo **desenvolvimento web** e estou estudando a parte **cibersegurança**
-- Meu objetivo é me tornar um **desenvolvedor** ou **cibersegurança**
-- Gosto de entender como as coisas funcionam em todas as matérias que posso aprender
+- No momento, estou aprendendo **desenvolvimento web** e estudando introdução à **cibersegurança**
+- Meu objetivo é me tornar **desenvolvedor** ou trabalhar com **cibersegurança**
+- Gosto de entender a fundo como as coisas funcionam
 - Estudo todos os dias, das **8h às 17h**
 
 ---
 
 ## 📊 Estatísticas do GitHub
-![Temp GitHub stats](https://github-readme-stats.vercel.app/api?username=tempz-miguelAndrade&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelAndrade&layout=compact&theme=tokyonight)
+![Temp GitHub stats](https://github-readme-stats.vercel.app/api?username=tempz-miguelandrade&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelandrade&layout=compact&theme=tokyonight)
 
 ---
 
-## Meus repositórios
-[programacao-I](https://github.com/tempz-miguelAndrade/programacao-I)
-[desnvolvimento-web-I](https://github.com/temp\-miguelAndrade/desenvolvimento-web-I)
-[prorgramacao-python](https://github.com/tempz-miguelAndrade/programacao-python)
+## 📁 Meus repositórios
+
+- [Programação I](https://github.com/tempz-miguelandrade/programacao-I)  
+- [Desenvolvimento Web I](https://github.com/tempz-miguelandrade/desenvolvimento-web-I)  
+- [Programação Python](https://github.com/tempz-miguelandrade/programacao-python)
 
 ---
 
 ## Contato
 **Email:** miguelandradedesouzaifc@gmail.com
-
-
