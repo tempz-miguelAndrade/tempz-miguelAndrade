@@ -14,10 +14,8 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
-## Estatísticas do GitHub
-
-> *Essas estatísticas são baseadas nos meus repositórios públicos.*
-
+## 📊 Minhas estatísticas do GitHub  
+> Aqui estão meus commits, repositórios e atividades no GitHub:  
 ![Temp GitHub stats](https://github-readme-stats.vercel.app/api?username=tempz-miguelandrade&show_icons=true&theme=tokyonight)
 
 ---
