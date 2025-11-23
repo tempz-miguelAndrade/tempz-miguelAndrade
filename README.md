@@ -13,16 +13,6 @@ Gosto de entender como tudo funciona “por trás do código”.
 Estudo todos os dias, das **8h às 17h**.
 
 ---
-## 🚀 Minhas linguagens
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="50"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
-</p>
-
----
 
 ## Linguagens mais usadas
 
