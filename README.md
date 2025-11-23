@@ -45,19 +45,21 @@ Estudo todos os dias, das **8h às 17h**.
 [Desenvolvimento Web I](https://github.com/tempz-miguelandrade/desenvolvimento-web-I)  
 [Programação Python](https://github.com/tempz-miguelandrade/programacao-python)
 
-<p align="left">
+
+<p style="display: flex; gap: 10px;">
   <a href="https://github.com/tempz-miguelAndrade/programacao-I">
-    <img style="border-radius: 12px;" src="https://github-readme-stats.vercel.app/api/pin/?username=tempz-miguelAndrade&repo=programacao-I&theme=tokyonight&border_radius=12" height="150" width="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tempz-miguelAndrade&repo=programacao-I&theme=tokyonight&border_radius=8" width="150"/>
   </a>
 
   <a href="https://github.com/tempz-miguelAndrade/desenvolvimento-web-I">
-    <img style="border-radius: 12px;" src="https://github-readme-stats.vercel.app/api/pin/?username=tempz-miguelAndrade&repo=desenvolvimento-web-I&theme=tokyonight&border_radius=12" height="150" width="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tempz-miguelAndrade&repo=desenvolvimento-web-I&theme=tokyonight&border_radius=8" width="150"/>
   </a>
 
   <a href="https://github.com/tempz-miguelAndrade/programacao-python">
-    <img style="border-radius: 12px;" src="https://github-readme-stats.vercel.app/api/pin/?username=tempz-miguelAndrade&repo=programacao-python&theme=tokyonight&border_radius=12" height="150" width="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tempz-miguelAndrade&repo=programacao-python&theme=tokyonight&border_radius=8" width="150"/>
   </a>
 </p>
+
 
 
 
