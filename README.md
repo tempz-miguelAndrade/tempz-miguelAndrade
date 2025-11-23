@@ -31,14 +31,6 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
-## Meus repositórios
-
-[Programação I](https://github.com/tempz-miguelandrade/programacao-I)  
-[Desenvolvimento Web I](https://github.com/tempz-miguelandrade/desenvolvimento-web-I)  
-[Programação Python](https://github.com/tempz-miguelandrade/programacao-python)
-
----
-
 ## Contato
 
 **Email:** miguelandradedesouzaifc@gmail.com  
