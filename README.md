@@ -22,11 +22,17 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
+## <span style="color:#FF6A00">Linguagens mais usadas no GitHub</span>
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelandrade&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
 ## <span style="color:#FF6A00">Linguagens que estudo e utilizo</span>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -41,4 +47,4 @@ Estudo todos os dias, das **8h às 17h**.
 
 ## <span style="color:#FF6A00">Contato</span>
 
-**Email:** miguelandradedesouzaifc@gmail.com
+**Email:** miguelandradedesouzaifc@gmail.com  
