@@ -37,19 +37,8 @@ Estudo todos os dias, das **8h às 17h**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="left">
-  <a href="https://github.com/tempz-miguelAndrade/programacao-I">
-    <img src="https://via.placeholder.com/150/0a0f1d/FFFFFF?text=Prog+I" width="150" height="150">
-  </a>
-
-  <a href="https://github.com/tempz-miguelAndrade/desenvolvimento-web-I">
-    <img src="https://via.placeholder.com/150/0a0f1d/FFFFFF?text=Web+I" width="150" height="150">
-  </a>
-
-  <a href="https://github.com/tempz-miguelAndrade/programacao-python">
-    <img src="https://via.placeholder.com/150/0a0f1d/FFFFFF?text=Python" width="150" height="150">
-  </a>
-</p>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAIAAACzY+a1AAABcElEQVR4nO3RsQkDMQxE0f7/p2nHCWJmQiJt2y9QLHrDxm3k0uifNPV3nU/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1UAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OfwD8iwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwj+Y9QINvqYHYYAAAAASUVORK5CYII=" 
+     width="150" height="150">
 
 
 ---
