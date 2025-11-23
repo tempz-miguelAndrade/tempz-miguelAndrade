@@ -1,6 +1,6 @@
 # Olá, eu sou o Tempz!
 
-Meu nome é Miguel Andrade de Souza,sou estudante do **Instituto Federal Catarinense** (1º ano).  
+Meu nome é **Miguel Andrade de Souza**, sou estudante do **Instituto Federal Catarinense** (1º ano).  
 Cursando **Técnico em Informática para Internet**.
 
 ---
