@@ -26,6 +26,10 @@ Estudo todos os dias, das **8h às 17h**.
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelandrade&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
+## 📊 Linguagens mais usadas
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelAndrade&layout=compact&theme=dark)
+
+
 ---
 
 ## <span style="color:#FF6A00">Linguagens que estudo e utilizo</span>
