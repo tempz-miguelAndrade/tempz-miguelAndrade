@@ -1,11 +1,11 @@
-# <span style="color:#FF6A00">Olá, eu sou o Tempz!</span>
+# Olá, eu sou o Tempz!
 
-Sou Miguel Andrade de Souza, estudante do **Instituto Federal Catarinense** (1º ano).  
+Meu nome é Miguel Andrade de Souza,sou estudante do **Instituto Federal Catarinense** (1º ano).  
 Cursando **Técnico em Informática para Internet**.
 
 ---
 
-## <span style="color:#FF6A00">Sobre mim</span>
+## Sobre mim
 
 Estudo **desenvolvimento web** e introdução à **cibersegurança**.  
 Quero me tornar **desenvolvedor** ou trabalhar com **cibersegurança**.  
@@ -14,7 +14,7 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
-## <span style="color:#FF6A00">Estatísticas do GitHub</span>
+## Estatísticas do GitHub
 
 > *Essas estatísticas são baseadas nos meus repositórios públicos.*
 
@@ -22,7 +22,7 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
-## <span style="color:#FF6A00">Linguagens mais usadas</span>
+## Linguagens mais usadas
 
 ## 📊 Linguagens mais usadas
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelAndrade&layout=compact&theme=tokyonight&border_radius=10)
@@ -30,20 +30,16 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
-## <span style="color:#FF6A00">Linguagens que estudo e utilizo</span>
+## Linguagens que estudo e utilizo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAIAAACzY+a1AAABcElEQVR4nO3RsQkDMQxE0f7/p2nHCWJmQiJt2y9QLHrDxm3k0uifNPV3nU/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1f1fVdX9X1XV/V9V1UAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OIAAARb04gAABFvTiAAAEW9OfwD8iwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwjwL8yzMszDPwj+Y9QINvqYHYYAAAAASUVORK5CYII=" 
-     width="150" height="150">
-
-
 ---
 
-## <span style="color:#FF6A00">Meus repositórios</span>
+## Meus repositórios
 
 [Programação I](https://github.com/tempz-miguelandrade/programacao-I)  
 [Desenvolvimento Web I](https://github.com/tempz-miguelandrade/desenvolvimento-web-I)  
@@ -51,6 +47,6 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
-## <span style="color:#FF6A00">Contato</span>
+## Contato
 
 **Email:** miguelandradedesouzaifc@gmail.com  
