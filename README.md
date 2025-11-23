@@ -13,10 +13,14 @@ Gosto de entender como tudo funciona “por trás do código”.
 Estudo todos os dias, das **8h às 17h**.
 
 ---
+## 🚀 Minhas linguagens
 
-## 📊 Minhas estatísticas do GitHub  
-> Aqui estão meus commits, repositórios e atividades no GitHub:  
-![Temp GitHub stats](https://github-readme-stats.vercel.app/api?username=tempz-miguelandrade&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+</p>
 
 ---
 
