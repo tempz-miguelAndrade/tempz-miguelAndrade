@@ -37,6 +37,21 @@ Estudo todos os dias, das **8h às 17h**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<p align="left">
+  <a href="https://github.com/tempz-miguelAndrade/programacao-I">
+    <img src="https://via.placeholder.com/150/0a0f1d/FFFFFF?text=Prog+I" width="150" height="150">
+  </a>
+
+  <a href="https://github.com/tempz-miguelAndrade/desenvolvimento-web-I">
+    <img src="https://via.placeholder.com/150/0a0f1d/FFFFFF?text=Web+I" width="150" height="150">
+  </a>
+
+  <a href="https://github.com/tempz-miguelAndrade/programacao-python">
+    <img src="https://via.placeholder.com/150/0a0f1d/FFFFFF?text=Python" width="150" height="150">
+  </a>
+</p>
+
+
 ---
 
 ## <span style="color:#FF6A00">Meus repositórios</span>
