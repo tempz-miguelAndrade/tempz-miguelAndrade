@@ -45,6 +45,9 @@ Estudo todos os dias, das **8h às 17h**.
 [Desenvolvimento Web I](https://github.com/tempz-miguelandrade/desenvolvimento-web-I)  
 [Programação Python](https://github.com/tempz-miguelandrade/programacao-python)
 
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=tempz-miguelAndrade&repo=programacao-I&theme=tokyonight)](https://github.com/tempz-miguelAndrade/programacao-I)
+
+
 ---
 
 ## <span style="color:#FF6A00">Contato</span>
