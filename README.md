@@ -29,6 +29,14 @@ Estudo todos os dias, das **8h às 17h**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## <span style="color:#FF6A00">Linguagens que utilizo</span>
+
+
+- **HTML** – 40%  
+- **CSS** – 30%  
+- **JavaScript** – 20%  
+- **Python** – 10%
+
 <div style="width: 300px;">
 
 **HTML**  
@@ -52,6 +60,7 @@ Estudo todos os dias, das **8h às 17h**.
 </div>
 
 </div>
+
 
 ---
 
