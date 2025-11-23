@@ -22,12 +22,10 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
-## <span style="color:#FF6A00">Linguagens mais usadas no GitHub</span>
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelandrade&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+## <span style="color:#FF6A00">Linguagens mais usadas</span>
 
 ## 📊 Linguagens mais usadas
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelAndrade&layout=compact&theme=dark)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelAndrade&layout=compact&theme=tokyonight&border_radius=10)
 
 
 ---
