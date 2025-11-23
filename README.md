@@ -50,6 +50,10 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 ## <span style="color:#FF6A00">Contato</span>
 
 **Email:** miguelandradedesouzaifc@gmail.com  
