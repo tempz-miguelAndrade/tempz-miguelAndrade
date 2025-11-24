@@ -13,9 +13,11 @@ Gosto de entender como tudo funciona “por trás do código”.
 Estudo todos os dias, das **8h às 17h**.
 
 ---
+
 ## 🐍 Minhas contribuições animadas
 
-![Snake animation](https://raw.githubusercontent.com/tempz-miguelAndrade/tempz-miguelAndrade/output/snake.yml)
+![Snake animation](https://raw.githubusercontent.com/tempz-miguelAndrade/tempz-miguelAndrade/output/snake.svg)
+
 
 ---
 
