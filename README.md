@@ -54,6 +54,6 @@ Estudo todos os dias, das **8h às 17h**.
 
 ## 📬 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelandradedesouzaifc@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contato-orange?style=for-the-badge&logo=gmail)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-andrade-de-souza-a9968b360/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tempz_miguelandrade/)
