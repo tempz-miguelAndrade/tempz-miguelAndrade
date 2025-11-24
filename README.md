@@ -14,14 +14,26 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
-## Linguagens mais usadas
+## 📊 Minhas estatísticas no GitHub
 
-## 📊 Linguagens mais usadas
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelAndrade&layout=compact&theme=tokyonight&border_radius=10)
+<div align="center">
 
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=tempz-miguelAndrade&show_icons=true&theme=radical&border_radius=20" 
+  height="180"
+/>
+
+</div>
 
 ---
-## 🚀 Minhas linguagens
+
+## 📊 Linguagens mais usadas
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelAndrade&layout=compact&theme=tokyonight&border_radius=10)
+
+---
+
+## 🚀 Tecnologias e linguagens
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="50"/>
@@ -32,6 +44,18 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
-## Contato
+## 📈 Gráfico de Contribuições
 
-**Email:** miguelandradedesouzaifc@gmail.com  
+<div align="center">
+
+![Tempz's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=tempz-miguelAndrade&theme=react-dark&color=ff6ec7&line=ff6ec7&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelandradedesouzaifc@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-andrade-de-souza-a9968b360/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tempz_miguelandrade/)
