@@ -17,7 +17,7 @@ Estudo todos os dias, das **8h às 17h**.
 ## 📊 Minhas estatísticas no GitHub
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=tempz-miguelAndrade&show_icons=true&theme=radical&border_radius=20" 
+  src="https://github-readme-stats.vercel.app/api?username=tempz-miguelandrade&show_icons=true&theme=radical&border_radius=20" 
   height="180"
 />
 
