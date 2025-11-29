@@ -14,18 +14,6 @@ Estudo todos os dias, das **8h às 17h**.
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=tempz-miguelandrade&cache_seconds=0
-" 
-  height="180"
-/>
-
-</div>
-
----
-
 ## 📊 Linguagens mais usadas
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tempz-miguelAndrade&layout=compact&theme=tokyonight&border_radius=10)
